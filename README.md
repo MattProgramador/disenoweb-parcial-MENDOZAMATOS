@@ -16,7 +16,7 @@ Presenta servicios tecnológicos, una galería de imágenes y contenido multimed
 - SEO básico
 
 ## Autor
-Estudiante de Ingeniería de Sistemas e Informática.
+Matthew Alessandro Mendoza Matos
 
 ## Sitio web
-Pendiente de publicación en GitHub Pages.
+Publicación en GitHub Pages.
